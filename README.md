@@ -1,5 +1,6 @@
 # Chess-In-C
-An interactive chess program that applies graphical user interface (GUI) and artificial intelligence (AI) based opponent.
+An interactive chess program that applies graphical user interface (GUI) and artificial intelligence (AI) based opponent.<br>
+Final Project for C programming course at Tel Aviv University. See- [Instructions](https://github.com/guryaniv/Chess-In-C/blob/master/Instructions.pdf).
 
 ## AI:
 For AI, the Minimax algorithm with pruning will be used. The depth of the MiniMax (or the number of steps to look-ahead) is defined in the difficulty level.
